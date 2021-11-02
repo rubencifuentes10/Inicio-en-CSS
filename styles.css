@@ -1,0 +1,47 @@
+h2 {
+    color: burlywood;
+}
+
+h2 {
+    border: rgb(44, 27, 16) 2px solid;
+    background-color:rgb(80, 60, 23);
+}
+
+.especial {
+    border:rgb(248, 1, 248) 2px solid;
+    background-color:rgb(15, 15, 13);
+    color:white;
+}
+li.spacious {
+    margin: 2em;
+    }
+    
+    li.spacious.elegant {
+    margin: 2em;
+    }
+    
+    ul.my-things li {
+    margin: 2em;
+    }
+
+a, li {
+    color:rgb(8, 8, 8);
+    background-color: violet;
+}
+
+img + h2 {
+    font-weight: bold;
+}
+
+html {
+    margin: 0 auto;
+    width: 60em;
+}
+
+ol {
+    background-color:violet;
+}
+
+ul.fondolista {
+    background-color:violet;
+}
